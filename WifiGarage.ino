@@ -1,8 +1,8 @@
 #include <WebServer.h>
 #include <WiFi.h>
 
-const char *ssid     = "NETGEAR10";
-const char *password = "7dp97UpV";
+const char *ssid     = ""; // Network Name
+const char *password = ""; // Network Password
 
 const int relayPin = 25;
 
